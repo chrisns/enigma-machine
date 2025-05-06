@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="218.39999mm"
+   height="76.400002mm"
+   viewBox="0 0 218.39999 76.400002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="base-side.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.023162177"
+     inkscape:cx="431.73834"
+     inkscape:cy="129.5215"
+     inkscape:window-width="1104"
+     inkscape:window-height="245"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.35,-110.33125)">
+    <g
+       id="p-2"
+       style="fill:none;stroke-linecap:round;stroke-linejoin:round"
+       transform="translate(-16.25,-99.26875)">
+      <path
+         d="m 19.1,285.9 h 19 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8.9 c 0,-0.1 -0.1,0 0,0 H 56 c 0.1,0 0,-0.1 0,0 v 8.9 c 0,0.055 0.045,0.1 0.1,0.1 h 18 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8.9 c 0,-0.1 -0.1,0 0,0 H 92 c 0.1,0 0,-0.1 0,0 v 8.9 c 0,0.055 0.045,0.1 0.1,0.1 h 18 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8.9 c 0,-0.1 -0.1,0 0,0 H 128 c 0.1,0 0,-0.1 0,0 v 8.9 c 0,0.055 0.045,0.1 0.1,0.1 h 18 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8.9 c 0,-0.1 -0.1,0 0,0 H 164 c 0.1,0 0,-0.1 0,0 v 8.9 c 0,0.055 0.045,0.1 0.1,0.1 h 18 c 0.055,0 0.1,-0.045 0.1,-0.1 v -8.9 c 0,-0.1 -0.1,0 0,0 H 200 c 0.1,0 0,-0.1 0,0 v 8.9 c 0,0.055 0.045,0.1 0.1,0.1 h 19 9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -29 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -8.9 c -0.1,0 0,0.1 0,0 v -17.8 c 0,-0.1 -0.1,0 0,0 h 8.9 c 0.055,0 0.1,-0.045 0.1,-0.1 v -29 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 h -9 -200 -9 c -0.055,0 -0.1,0.045 -0.1,0.1 v 76 c 0,0.055 0.045,0.1 0.1,0.1 z"
+         stroke="#000000"
+         stroke-width="0.2"
+         id="path3"
+         sodipodi:nodetypes="csssssssssssssssssssssssssssssssssssssssscssssssssssssccssssc" />
+    </g>
+  </g>
+</svg>
