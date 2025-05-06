@@ -4,13 +4,15 @@ This project was inspired by a wonderful family trip to [Bletchley Park](https:/
 
 This repository documents my project of building an Enigma-E, an electronic replica of the famous Enigma cipher machine, from a kit purchased from [Crypto Museum](https://www.cryptomuseum.com/kits/enigma/index.htm).
 
+
 ![Finished Enigma-E box closed](./photos/IMG_8111.png)
 
 ## The Build
 
 The Enigma-E kit was a fantastic project that I undertook with my two children, aged 8 and 6. It was a great learning experience for all of us, and they even got to practice their soldering skills on many of the components!
 
-![My Daughter Freya, 6 soldering the Enigma-E](./photos/IMG_8098.png)
+![My daughter Freya, 6 soldering the Enigma-E](./photos/IMG_8098.png)
+*My daughter Freya, 6, soldering the Enigma-E*
 
 ## Custom Wooden Case
 
